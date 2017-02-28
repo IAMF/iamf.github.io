@@ -8,13 +8,13 @@ const FUTUREEVENTSLIST = [
         'image': 'miami2040.png',
 	'date': 'Beginning March 4, 2017 at LAB Miami',
 
-	'description': "MIAMI 2040 is an opportunity not just to talk about climate change but to do something about it. Miami College of Design and high school students from South Florida will design solutions for the most daunting challenges for South Florida facing the next generation. At the end of a series of workshops, in which the students will have worked in teams with world-renowned industrial designers, their proposed solutions will be presented in June at the Deep Sea, a two-week public art installation on the shores of Miami Beach, adjacent to the US Conference of Mayors."
+	'description': "MIAMI 2040 is an opportunity not just to talk about climate change but to do something about it. Miami College of Design and high school students from South Florida will design solutions for the most daunting challenges for South Florida facing the next generation. At the end of a series of workshops, in which the students will have worked in teams with world-renowned industrial designers, their proposed solutions will be presented in June at the DEEP SEE, a two-week public art installation on the shores of Miami Beach, adjacent to the US Conference of Mayors."
 
     },
 
     {
 	'title': 'Erik Mortenson: The Ghost of Humanism: Rethinking the Subjective Turn in Postwar American Photography',
-	'date': '8 March 2017 5PM at LAB Miami',
+	'date': '8 March 2017 4PM at LAB Miami',
         'image': 'robert-frank.jpeg',
 	'description': 'This talk will examine the use of shadow, blur, graininess, and reflection in the work of the postwar photographers Robert Frank, William Klein, and Ralph Eugene Meatyard as a response to the rhetoric of Cold War containment. In contrast to the more comforting images in Edward Steichen’s popular exhibit The Family of Man, which sought to downplay Cold War anxieties, the photographs of Frank, Klein, and Meatyard challenged viewer expectation by presenting human figures in varying states of disintegration and disappearance. The term ‘subjective’ has long been used to describe a return to personal and private concerns during the postwar years, but discussion has focused mainly on the subjectivity of the artist rather than the viewer. By challenging the sanctity of the human figure, Frank, Klein, and Meatyard force viewers to confront such difficult images and, in the process, re-examine the fears and anxieties that lay dormant during the tense years of the early Cold War.'
     }
